@@ -1,0 +1,5 @@
+jose;5;3;20
+pedro;1;3;0
+suzana;10;9;8
+gisela;7;5;0
+joao;10;3;1
